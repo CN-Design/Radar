@@ -1,0 +1,1262 @@
+[
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "PJ34563",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ34566",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "PJ34563",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "PJ34564",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34565",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34567",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34565",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34563",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "PJ34565",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "PJ34567",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34567",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "PJ5786",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34564",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "PJ34565",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34564",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ34567",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34568",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "PJ34560",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "PJ34561",
+    "quadrant": 2,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "PJ34562",
+    "quadrant": 2,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "UI Designer",
+    "quadrant": 3,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Engineer",
+    "quadrant": 3,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "Project Manager",
+    "quadrant": 3,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "UI Designer",
+    "quadrant": 3,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "UI Designer",
+    "quadrant": 3,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "word",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "word",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "word",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "HTML",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "word",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "powerpoint",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "word",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "CSS",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 1
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "C++",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "json",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "excel",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "react",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Go",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Python",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Java",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": -1
+  },
+  {
+    "label": "JavaScript",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "C",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Quantum Computing",
+    "quadrant": 1,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "Neural Networks",
+    "quadrant": 1,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "Internet of Things",
+    "quadrant": 1,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Blockchain",
+    "quadrant": 1,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Augmented Reality",
+    "quadrant": 1,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "Artificial Intelligence",
+    "quadrant": 1,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Robotics",
+    "quadrant": 1,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Blockchain",
+    "quadrant": 1,
+    "ring": 0,
+    "moved": -1
+  },
+  {
+    "label": "Augmented Reality",
+    "quadrant": 2,
+    "ring": 2,
+    "moved": 1
+  },
+  {
+    "label": "Artificial Intelligence",
+    "quadrant": 1,
+    "ring": 1,
+    "moved": -1
+  },
+  {
+    "label": "Robotics",
+    "quadrant": 1,
+    "ring": 0,
+    "moved": 1
+  },
+  {
+    "label": "Virtual Reality",
+    "quadrant": 1,
+    "ring": 3,
+    "moved": -1
+  },
+  {
+    "label": "5G Networks",
+    "quadrant": 1,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Biotechnology",
+    "quadrant": 1,
+    "ring": 2,
+    "moved": -1
+  } 
+]

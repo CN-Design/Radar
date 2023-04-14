@@ -1,0 +1,1376 @@
+[
+  {
+      "label": "Emp001-Javascript",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 1
+    },
+    {
+      "label": "Emp002-Python",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp003-Redis",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp004-C",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp005-C++",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp006-Java",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp007-Excel",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp008-Scala",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp009-Javascript",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp010-Python",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp011-Redis",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp012-C",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 1
+    },
+    {
+      "label": "Emp013-C++",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Emp013-Java",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Emp014-Excel",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp015-Scala",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 1
+    },
+    {
+      "label": "Emp016-Javascript",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp017-Python",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 1
+    },
+    {
+      "label": "Emp018-Redis",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Emp019-C",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp020-C++",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 1
+    },
+    {
+      "label": "Emp021-Java",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": -1
+    },
+    {
+      "label": "Emp022-Excel",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Emp023-Scala",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+
+
+    {
+      "label": "Emp024-Javascript",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp025-Python",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp026-Redis",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp027-C",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp028-C++",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp028-Java",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp029-Excel",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp030-Scala",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp031-Javascript",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp032-Python",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp033-Redis",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp034-C",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp035-C++",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp036-Java",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp037-Excel",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp038-Scala",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp039-Javascript",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp040-Python",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp041-Redis",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp042-C",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp044-C++",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp043-Java",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp045-Excel",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp046-Scala",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp048-Java",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp049-Excel",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp050-Scala",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Emp051-C",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp052-C++",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Emp053-Java",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": -1
+    },
+    {
+      "label": "Emp054-Javascript",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp055-Python",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp056-Redis",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp057-C",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp058-C++",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp059-Java",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp060-Excel",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp061-Scala",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp062-Javascript",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp063-Python",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp064-Redis",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp065-C",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp066-C++",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp067-Java",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp67-Excel",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp068-Scala",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp069-Javascript",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp070-Python",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp071-Redis",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Emp072-C",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+    {
+      "label": "Emp073-C++",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "Emp074-Java",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": -1
+    },
+
+
+    {
+      "label": "Emp075-Excel",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp076-Scala",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp077-Java",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp078-Excel",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp079-Scala",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp080-C",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp081-C++",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp082-Java",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp083-Excel",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp084-Scala",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp085-Java",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp086-Excel",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 1
+    },
+    {
+      "label": "Emp087-Scala",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp088-C",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "Emp089-C++",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": -1
+    },
+    {
+      "label": "Emp090-Java",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    }, 
+  {
+    "label": "AI image recognition system construction service",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Edge AI Computing Development Service",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Data utilization consulting",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "IoT platform",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Design visualization/systematization",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "MBD modeling (plant/control)",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Advanced AI technology research",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "AI image recognition system construction service",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Edge AI Computing Development Service",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Data utilization consulting",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "IoT platform",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Design visualization/systematization",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "MBD modeling (plant/control)",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  {
+    "label": "Advanced AI technology research",
+    "quadrant": 0,
+    "ring": 0,
+    "moved": 0
+  },
+  
+
+  {
+    "label": "AI image recognition system construction service",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "Edge AI Computing Development Service",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Data utilization consulting",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "IoT platform",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+  {
+    "label": "Design visualization/systematization",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "MBD modeling (plant/control)",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "Advanced AI technology research",
+    "quadrant": 0,
+    "ring": 1,
+    "moved": 0
+  },
+
+
+  {
+    "label": "AI image recognition system construction service",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "Edge AI Computing Development Service",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "Data utilization consulting",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "IoT platform",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "Design visualization/systematization",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+  {
+    "label": "MBD modeling (plant/control)",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "Advanced AI technology research",
+    "quadrant": 0,
+    "ring": 2,
+    "moved": 0
+  },
+
+  {
+    "label": "AI image recognition system construction service",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "Edge AI Computing Development Service",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Data utilization consulting",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "IoT platform",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Design visualization/systematization",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 2,
+    "size": 16
+  },
+  {
+    "label": "MBD modeling (plant/control)",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 0
+  },
+  {
+    "label": "Advanced AI technology research",
+    "quadrant": 0,
+    "ring": 3,
+    "moved": 2,
+    "size": 16
+  },
+  
+    {
+        "label": "Emp001-AI/Data Science",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp002-edge computing",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp006-Advanced production technology",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp007-cloud service",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Emp008-sensor sensing",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp009-AI/Data Science",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Emp010-edge computing",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp011-MBD/HILS",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp012-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp013-MBD/HILS",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Emp013-Advanced production technology",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Emp014-cloud service",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp015-sensor sensing",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp016-AI/Data Science",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp017-edge computing",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp018-MBD/HILS",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Emp019-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": -1
+      },
+      {
+        "label": "Emp020-MBD/HILS",
+        "quadrant": 3,
+        "ring": 0,
+        "moved": 1
+      },
+      {
+        "label": "Emp038-sensor sensing",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 1
+      },
+      {
+        "label": "Emp039-AI/Data Science",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+      {
+        "label": "Emp040-edge computing",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 1
+      },
+      {
+        "label": "Emp041-MBD/HILS",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Emp042-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+      {
+        "label": "Emp044-MBD/HILS",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 1
+      },
+      {
+        "label": "Emp043-Advanced production technology",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+      {
+        "label": "Emp045-cloud service",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Emp046-sensor sensing",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Emp048-Advanced production technology",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+      {
+        "label": "Emp049-cloud service",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Emp050-sensor sensing",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Emp051-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+      {
+        "label": "Emp052-MBD/HILS",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": 1
+      },
+      {
+        "label": "Emp053-Advanced production technology",
+        "quadrant": 3,
+        "ring": 1,
+        "moved": -1
+      },
+
+
+
+      {
+        "label": "Emp054-AI/Data Science",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp055-edge computing",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+      {
+        "label": "Emp056-MBD/HILS",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp057-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp058-MBD/HILS",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp059-Advanced production technology",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+      {
+        "label": "Emp060-cloud service",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp061-sensor sensing",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp062-AI/Data Science",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp063-edge computing",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp064-MBD/HILS",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+      {
+        "label": "Emp065-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp066-MBD/HILS",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp067-Advanced production technology",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Emp67-cloud service",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+      {
+        "label": "Emp068-sensor sensing",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp069-AI/Data Science",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+      {
+        "label": "Emp070-edge computing",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": 1
+      },
+      {
+        "label": "Emp074-Advanced production technology",
+        "quadrant": 3,
+        "ring": 2,
+        "moved": -1
+      },
+
+
+      {
+        "label": "Emp075-cloud service",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp076-sensor sensing",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp077-Advanced production technology",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp078-cloud service",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp079-sensor sensing",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp080-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp081-MBD/HILS",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 1
+      },
+      {
+        "label": "Emp082-Advanced production technology",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp083-cloud service",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp084-sensor sensing",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 1
+      },
+      {
+        "label": "Emp085-Advanced production technology",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp086-cloud service",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 1
+      },
+      {
+        "label": "Emp087-sensor sensing",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp088-Microcomputer embedded/control software",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Emp089-MBD/HILS",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": -1
+      },
+      {
+        "label": "Emp090-Advanced production technology",
+        "quadrant": 3,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Automobile/Mobility",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Bio/Medical",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Electrical Components/Semi-conductors",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Electronics/Precision Machinery",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Industrial Machinery",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Information Systems/Telecommunications​",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 0
+      },
+      {
+        "label": "Materials",
+        "quadrant": 1,
+        "ring": 0,
+        "moved": 2,
+        "size" : 9
+      },
+      
+    
+      {
+        "label": "Automobile/Mobility",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 2,
+        "size": 12
+      },
+      {
+        "label": "Bio/Medical",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Electrical Components/Semi-conductors",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Electronics/Precision Machinery",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Industrial Machinery",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Information Systems/Telecommunications​",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 0
+      },
+      {
+        "label": "Materials",
+        "quadrant": 1,
+        "ring": 1,
+        "moved": 2,
+        "size" : 12
+      },
+    
+      {
+        "label": "Automobile/Mobility",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 2,
+        "size": 14
+      },
+      {
+        "label": "Bio/Medical",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Electrical Components/Semi-conductors",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Electronics/Precision Machinery",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Industrial Machinery",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Information Systems/Telecommunications​",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 0
+      },
+      {
+        "label": "Materials",
+        "quadrant": 1,
+        "ring": 2,
+        "moved": 2,
+        "size" : 14
+      },
+    
+      {
+        "label": "Automobile/Mobility",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 2,
+        "size": 16
+      },
+      {
+        "label": "Bio/Medical",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Electrical Components/Semi-conductors",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Electronics/Precision Machinery",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Industrial Machinery",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Information Systems/Telecommunications​",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 0
+      },
+      {
+        "label": "Materials",
+        "quadrant": 1,
+        "ring": 3,
+        "moved": 2,
+        "size": 16
+      }  
+]
